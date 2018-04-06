@@ -2,6 +2,16 @@
 <AutoSplitters>
   <AutoSplitter>
     <Games>
+      <Game>Rayman 2: The Great Escape</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/RibShark/Rayman2AutoSplitter/master/LiveSplit.Rayman2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto starting, resetting and splitting. Starts after the opening cutscene, final split is performed once the final boss is defeated. (By RibShark)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
       <Game>Persist - A Tale of Redemption</Game>
     </Games>
     <URLs>
@@ -1346,7 +1356,7 @@
     <Type>Component</Type>
     <Description>Load Removal is available. (By Sphere)</Description>
     <Website>https://github.com/kugelrund/LiveSplit.StEf2/blob/master/README.md</Website>
-  </AutoSplitter>	
+  </AutoSplitter>
   <AutoSplitter>
     <Games>
       <Game>Soldier of Fortune</Game>
@@ -1502,7 +1512,7 @@
       <Game>Pure Faction</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/SuiMachine/LiveSplit.RedFaction/raw/master/Components/LiveSplit.RedFaction.dll</URL>
+      <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.RedFaction/master/Components/LiveSplit.RedFaction.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Auto Splitting is available for Pure Faction 3.0d. (By SuicideMachine)</Description>
@@ -1900,13 +1910,48 @@
       <Game>Talos</Game>
       <Game>Road to Gehenna</Game>
       <Game>Gehenna</Game>
+      <Game>The Talos Principle Category Extensions</Game>
     </Games>
     <URLs>
-      <URL>https://gist.githubusercontent.com/jbzdarkid/611993edbfc9a774e95234166be52f2a/raw</URL>
+      <URL>https://raw.githubusercontent.com/jbzdarkid/Autosplitters/master/LiveSplit.TheTalosPrinciple.asl</URL>
     </URLs>
     <Type>Script</Type>
-    <Website>https://gist.github.com/jbzdarkid/611993edbfc9a774e95234166be52f2a</Website>
+    <Website>https://github.com/jbzdarkid/Autosplitters</Website>
     <Description>Auto splitting, Automatic start/reset, and load removal (By Darkid)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>The Witness</Game>
+      <Game>Witness</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/jbzdarkid/Autosplitters/master/LiveSplit.TheWitness2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Website>https://github.com/jbzdarkid/Autosplitters</Website>
+    <Description>Auto splitting and Automatic start/reset (By Darkid)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Braid</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/jbzdarkid/Autosplitters/master/LiveSplit.Braid.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Website>https://github.com/jbzdarkid/Autosplitters</Website>
+    <Description>Auto splitting, Automatic start/reset, and in-game time (By Darkid)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>BattleBlock Theater</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/jbzdarkid/Autosplitters/master/LiveSplit.BattleBlockTheater.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Website>https://github.com/jbzdarkid/Autosplitters</Website>
+    <Description>Auto splitting and Automatic start/reset (By Darkid)</Description>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -2466,7 +2511,7 @@
     <Type>Script</Type>
     <Description>Load Removal is available for v1.00 (By S.)</Description>
     <Website>https://github.com/lotsofs/livesplit-asl/blob/master/README.md</Website>
-  </AutoSplitter>	
+  </AutoSplitter>
   <AutoSplitter>
     <Games>
       <Game>Hard Reset Redux</Game>
@@ -2507,18 +2552,6 @@
     </URLs>
     <Type>Script</Type>
     <Description>Load screen time removal is available. (By SuicideMachine)</Description>
-  </AutoSplitter>
-  <AutoSplitter>
-    <Games>
-      <Game>The Witness</Game>
-      <Game>Witness</Game>
-    </Games>
-    <URLs>
-      <URL>https://gist.githubusercontent.com/jbzdarkid/0948c9318c6da6a7c459681f181c7ee9/raw</URL>
-    </URLs>
-    <Type>Script</Type>
-    <Website>https://gist.github.com/jbzdarkid/0948c9318c6da6a7c459681f181c7ee9</Website>
-    <Description>Auto splitting on panels and Automatic start/reset (By Darkid)</Description>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -2583,7 +2616,7 @@
       <Game>Thief Deadly Shadows</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/SuiMachine/LiveSplit.ThiefDS/raw/master/Components/LiveSplit.ThiefDS.dll</URL>
+      <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.ThiefDS/master/Components/LiveSplit.ThiefDS.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Load Removal is available (By SuicideMachine)</Description>
@@ -2742,7 +2775,7 @@
       <Game>El Matador</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/SuiMachine/LiveSplit.ElMatador/raw/master/Components/LiveSplit.ElMatador.dll</URL>
+      <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.ElMatador/master/Components/LiveSplit.ElMatador.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Load removal is available. (By SuicideMachine)</Description>
@@ -3234,7 +3267,7 @@
       <Game>Syndicate 2012</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/SuiMachine/LiveSplit.Syndicate2012/raw/master/Components/LiveSplit.Syndicate2012.dll</URL>
+      <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.Syndicate2012/master/Components/LiveSplit.Syndicate2012.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Autosplitting and load removal is available. (By SuicideMachine)</Description>
@@ -3455,7 +3488,7 @@
       <Game>Project Lumoria</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/7imekeeper/LiveSplit.Lumoria/raw/master/LiveSplit.Lumoria/Components/LiveSplit.Lumoria.dll</URL>
+      <URL>https://raw.githubusercontent.com/7imekeeper/LiveSplit.Lumoria/master/LiveSplit.Lumoria/Components/LiveSplit.Lumoria.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Auto Splitting is available. (By 7imekeeper)</Description>
@@ -3518,17 +3551,6 @@
   </AutoSplitter>
   <AutoSplitter>
     <Games>
-      <Game>Braid</Game>
-    </Games>
-    <URLs>
-      <URL>https://gist.githubusercontent.com/jbzdarkid/4a97fa029a80d88560eeaa5096b8701f/raw</URL>
-    </URLs>
-    <Type>Script</Type>
-    <Website>https://gist.githubusercontent.com/jbzdarkid/4a97fa029a80d88560eeaa5096b8701f</Website>
-    <Description>Auto splitting, Automatic start/reset, and in-game time (By Darkid)</Description>
-  </AutoSplitter>
-  <AutoSplitter>
-    <Games>
       <Game>DYE</Game>
     </Games>
     <URLs>
@@ -3548,16 +3570,6 @@
     <Type>Script</Type>
     <Website>https://github.com/Tairoon92/LiveSplit.ASLScripts</Website>
     <Description>Auto splitting, Automatic start/reset, and in-game time (By Tairoon)</Description>
-  </AutoSplitter>
-  <AutoSplitter>
-    <Games>
-      <Game>SUPERHOT VR</Game>
-    </Games>
-    <URLs>
-      <URL>https://raw.githubusercontent.com/the-jay/autosplitters/master/LiveSplit.SuperHotVR.asl</URL>
-    </URLs>
-    <Type>Script</Type>
-    <Description>Auto Splitting is available (by Jay)</Description>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -3593,17 +3605,6 @@
   </AutoSplitter>
   <AutoSplitter>
     <Games>
-      <Game>BattleBlock Theater</Game>
-    </Games>
-    <URLs>
-      <URL>https://gist.githubusercontent.com/jbzdarkid/5f9c0fa8534e9047f375f2c1c99fe1fd/raw</URL>
-    </URLs>
-    <Type>Script</Type>
-    <Website>https://gist.github.com/jbzdarkid/5f9c0fa8534e9047f375f2c1c99fe1fd</Website>
-    <Description>Auto splitting, Automatic start/reset (By Darkid)</Description>
-  </AutoSplitter>
-  <AutoSplitter>
-    <Games>
       <Game>INFRA</Game>
     </Games>
     <URLs>
@@ -3618,7 +3619,7 @@
       <Game>Deus Ex</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/SuiMachine/LiveSplit.DXLoads/raw/master/Components/LiveSplit.DX.dll</URL>
+      <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.DXLoads/master/Components/LiveSplit.DX.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Auto Splitting and load removal is available. (By SuicideMachine, based on code of Dalet)</Description>
@@ -3881,5 +3882,47 @@
     <Type>Script</Type>
     <Description>Load Removal, Auto-splitting, and Auto-reset are available. (By TheIntercom)</Description>
 	  <Website>https://github.com/TheIntercom/Autosplitters</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Secret of Mana (2018)</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Nariom/asl/master/Secret_of_Mana.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available.</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Super Metroid</Game>
+      <Game>Super Metroid Category Extensions</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/UNHchabo/AutoSplitters/master/SuperMetroid/LiveSplit.SuperMetroid.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto Splitting, In-Game Time, and Auto Start/Reset are available. (By UNHchabo)</Description>
+    <Website>https://github.com/UNHchabo/AutoSplitters/tree/master/SuperMetroid</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>KHOLAT</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/ItsTrigger/LiveSplit-Auto-Splitters/master/LiveSplit.KHOLAT.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load time removal is available. (By Trigger)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Slay the Spire</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Phxntxm/Slay-The-Spire-Autosplitter/master/StS%20autosplitter.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto splitter/resetter/starter. (By Phantom)</Description>
   </AutoSplitter>
 </AutoSplitters>
